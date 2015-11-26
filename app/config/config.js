@@ -1,0 +1,6 @@
+var LOCAL_CONFIGURATIONS = {
+    'PORT': 8181,
+    'ALLOWED': '192.168.0.148'
+}
+
+module.exports = LOCAL_CONFIGURATIONS;
